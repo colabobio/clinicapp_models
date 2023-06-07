@@ -1,0 +1,6 @@
+Term,Coefficient,Type,Knots
+Intercept,-3.57712,linear,none
+EbolaContactYes,3.55366,linear,none
+EbolaContactUnknown,1.88154,linear,none
+AnyBleedingYes,2.01605,linear,none
+AbdominalPainYes,-1.19409,linear,none
